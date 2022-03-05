@@ -1,4 +1,11 @@
-# Express API Starter
+# pi-controller
+A lightweight Node.js http server for sending commands to a raspberry pi. 
+
+
+## Interface 
+Send terminal commands to the raspberry pi using http requests
+
+##  Express API Starter
 
 Includes API Server utilities:
 
